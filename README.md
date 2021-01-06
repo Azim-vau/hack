@@ -3,7 +3,9 @@
 
 
 <h1 align="center"> |MR.ERROR|</h1>
-<b align="center"> Hack Tool </b>
+
+<align="center"> Hack Tool
+
 <p align="center">
       A new international facebook account cracker tool for termux users
 </p>
